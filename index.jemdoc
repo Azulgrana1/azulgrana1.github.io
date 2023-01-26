@@ -1,0 +1,60 @@
+= Yuhan Liu
+
+~~~
+{}{img_left}{yuhan.jpg}{Yuhan Liu}{150}{140}{index.html}
+
+{{<span lang="zh-Hans">}}刘宇涵{{</span>}}
+
+Cornell University
+
+yl2976 at cornell dot edu
+~~~
+
+== About me
+I am a Ph.D. student in ECE at Cornell University, advised by Professor Jayadev Acharya. My research interest broadly lies in distributed machine learning theory. My recent focus is distributed statistical estimation with information restrictions, such as differential privacy and communication constraints.
+
+Prior coming to Cornell, I graduated from the department of automation at Tsinghua University with honor, advised by Prof. Yipeng Li. I also worked with Prof. Liwei Wang from Peking University. In addition, I worked as research intern in Google, Microsoft Research Asia, and Megvii (Face\+\+).
+
+== Publication and Preprints
+Author names are in alphabetical order unless otherwise indicated.
+- [https://arxiv.org/abs/2211.03757 Discrete Distribution Estimation under User-level Local Differential Privacy] \n Jayadev Acharya, Yuhan Liu, Ziteng Sun \n The 26th International Conference on Artificial Intelligence and Statistics (AISTATS)
+
+- [https://arxiv.org/abs/2006.03008 Histogram Estimation under User-level Privacy with Heterogeneous Data] \n Yuhan Liu, Ananda Theertha Sures, Wennan Zhu, Peter Kairouz, Marco Gruteser \n Short version at ICML 2022 Workshop on Theory and Practice of Differential Privacy
+
+- Distributed Estimation with Multiple Samples per User: Sharp Rates and Phase Transition\n Jayadev Acharya, Clement Canonne, Yuhan Liu, Ziteng Sun, Himanshu Tyagi\n 35th Conference on Neural Inforamtion Processing Systems (NeurIPS 2021)
+
+- [https://arxiv.org/abs/2011.00083 Estimating sparse discrete distributions under privacy and communication constraints]\n Jayadev Acharya, Peter Kairouz, Yuhan Liu, Ziteng Sun\n  The 32nd International Conference on Algorithmic Learning Theory, 2021. 
+
+- [https://arxiv.org/abs/2007.13660 Learning discrete distributions\: user vs item level privacy]\n *Yuhan Liu*, Ananda Theertha Suresh, Felix Yu, Sanjiv Kumar, Michael Riley\n 34th Conference on Neural Information Processing Systems (NeurIPS 2020)
+
+- [https://arxiv.org/abs/2007.10976 Interactive inference under information constraints]\n Jayadev Acharya, Clement Canonne, Yuhan Liu, Ziteng Sun, Himanshu Tyagi\n ISIT 2021. Accepted by IEEE Transactions on Information Theory
+
+== Work Experience
+- May 2022-Dec 2022 Google | Research Intern
+e
+- May 2021-Dec 2021 Google | Research Intern
+
+- Nov 2017-Jun 2018 Microsoft Research Asia | Research Intern
+
+- Sep 2017-Oct 2017 Megvii (Face\+\+) | Research Intern
+
+
+== Teaching
+Teaching Assistant:
+- ECE4200 Fundamentals of Machine Learning, Spring and Fall 2020
+
+
+== Academic Service
+Reviewer: ICML2020, ITCS2021
+
+== Honors
+Fellowships and Scholarships
+- Academic Excellence Scholarship, Tsinghua University, Oct 2015 and Oct 2016 
+- Cornell Fellowship, Sep 2018
+
+Awards
+- Excellent Graduating Student of Tsinghua University, Jul 2018
+
+== Education
+- 2014-2018, Tsinghua University, B.Eng. in Automation (with honor)\n Thesis: Monocular Semantic SLAM with Object Augmented Pose-Graph Map
+- 2018-present, Cornell University, Ph.D. in Electrical and Computer Engineering
