@@ -19,7 +19,7 @@ Prior coming to Cornell, I graduated from the department of automation at Tsingh
 Author names are in alphabetical order unless otherwise indicated.
 - [https://arxiv.org/abs/2211.03757 Discrete Distribution Estimation under User-level Local Differential Privacy] \n Jayadev Acharya, Yuhan Liu, Ziteng Sun \n The 26th International Conference on Artificial Intelligence and Statistics (AISTATS)
 
-- [https://arxiv.org/abs/2206.03008 Histogram Estimation under User-level Privacy with Heterogeneous Data] \n Yuhan Liu, Ananda Theertha Suresh, Wennan Zhu, Peter Kairouz, Marco Gruteser \n Short version at ICML 2022 Workshop on Theory and Practice of Differential Privacy
+- [https://arxiv.org/abs/2206.03008 Algorithms for bounding user contribution for histogram estimation under user-level privacy] \n Yuhan Liu, Ananda Theertha Suresh, Wennan Zhu, Peter Kairouz, Marco Gruteser \n The 40th International Conference on Machine learning \n Short version at ICML 2022 Workshop on Theory and Practice of Differential Privacy
 
 - [https://www.tandfonline.com/doi/pdf/10.1080/10408398.2022.2103086 A perspective on data sharing in digital food safty systems] \n Chenhao Qian, Yuhan Liu, Cecil Barnett-Neefs, Sudeep Salgia, Omer Serbetci, Aaron Adalja, Jayadev Acharya, Qing Zhao, Renatta Ivanek, Martin Wiedmann \n Critical Reviews in Food Science and Nutrition, DOI: 10.1080/10408398.2022.2103086 
 
@@ -47,7 +47,7 @@ Teaching Assistant:
 
 
 == Academic Service
-Reviewer: ICML2020, ITCS2021
+Reviewer: NeurIPS 2021, ICLR 2022, ICML 2022, NeurIPS 2022, ICLR 2023, AISTATS 2023, NeurIPS 2023
 
 == Honors
 Fellowships and Scholarships
