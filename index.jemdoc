@@ -5,26 +5,39 @@
 
 {{<span lang="zh-Hans">}}刘宇涵{{</span>}}
 
-Cornell University
+Rice University
 
-yl2976 at cornell dot edu
+yuhan\-liu at rice dot edu
 ~~~
 
 == About me
-I am a Ph.D. student in ECE at Cornell University, advised by Professor Jayadev Acharya. My research interest broadly lies in distributed machine learning theory. My recent focus is distributed statistical estimation with information restrictions, such as differential privacy and communication constraints.
+I am postdoc at Rice University hosted by Prof. Maryam Aliakbarpour and Prof. Vladimir Braverman. I also work closely with Prof. Nai-Hui Chia.
+I obtained my Ph.D. in ECE at Cornell University in 2024, advised by Prof Jayadev Acharya. My research interest lies in federated learning and quantum computing. 
 
-Prior coming to Cornell, I graduated from the department of automation at Tsinghua University with honor, advised by Prof. Yipeng Li. I also worked with Prof. Liwei Wang from Peking University. In addition, I worked as research intern in Google, Microsoft Research Asia, and Megvii (Face\+\+).
+I graduated from the department of automation at Tsinghua University in 2018 with honor, advised by Prof. Yipeng Li. I also worked with Prof. Liwei Wang from Peking University. In addition, I worked as research intern in Google, Microsoft Research Asia, and Megvii (Face\+\+).
 
 == Preprints
-- [https://arxiv.org/abs/2401.09650 The role of shared randomness in quantum state certification with unentangled measurements] \n Yuhan Liu, Jayadev Acharya \n arXiv:2401.09650\[quant-ph\]
+- [https://arxiv.org/abs/2507.22001 Pauli measurements are near-optimal for single-qubit tomography] \n Jayadev Acharya, Abhilash Dharmavarapu, Yuhan Liu, Nengkun Yu \n arXiv:2507.22001\[quant-ph\]
+
+- [https://arxiv.org/abs/2408.17439 Quantum state testing with restricted measurements] \n *Yuhan Liu*, Jayadev Acharya \n arXiv:2408.17439\[quant-ph\]
+
 
 == Publication
 Author names are in alphabetical order unless otherwise indicated.
+
+- [https://arxiv.org/abs/2508.13959 Adversarially robust quantum state learning and testing] \n Maryam Aliakbarpour, Vladimir Braverman, Nai-Hui Chia, Yuhan Liu \n The 66th Annual Symposium on Foundations of Computer Science (FOCS 2025) 
+
+- [https://arxiv.org/abs/2502.18170 Pauli measurements are not optimal for single-copy tomography] \n Jayadev Acharya, Abhilash Dharmavarapu, Yuhan Liu, Nengkun Yu \n The 57th Annual aCM Symposium on Theory of Computing (STOC 2025)
+
+
+- [https://arxiv.org/abs/2401.09650 The role of randomness in quantum state certification with unentangled measurements] \n *Yuhan Liu*, Jayadev Acharya \n The 34th Annual Conference on Learning Theory (COLT 2024) 
+
+
 - [https://arxiv.org/abs/2211.03757 Discrete Distribution Estimation under User-level Local Differential Privacy] \n Jayadev Acharya, Yuhan Liu, Ziteng Sun \n The 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)
 
 - [https://arxiv.org/abs/2206.03008 Algorithms for bounding user contribution for histogram estimation under user-level privacy] \n Yuhan Liu, Ananda Theertha Suresh, Wennan Zhu, Peter Kairouz, Marco Gruteser \n The 40th International Conference on Machine learning (ICML 2023) \n Short version at ICML 2022 Workshop on Theory and Practice of Differential Privacy
 
-- [https://www.tandfonline.com/doi/pdf/10.1080/10408398.2022.2103086 A perspective on data sharing in digital food safty systems] \n Chenhao Qian, Yuhan Liu, Cecil Barnett-Neefs, Sudeep Salgia, Omer Serbetci, Aaron Adalja, Jayadev Acharya, Qing Zhao, Renatta Ivanek, Martin Wiedmann \n Critical Reviews in Food Science and Nutrition, DOI: 10.1080/10408398.2022.2103086 
+- [https://www.tandfonline.com/doi/pdf/10.1080/10408398.2022.2103086 A perspective on data sharing in digital food safty systems] \n Chenhao Qian, *Yuhan Liu*, Cecil Barnett-Neefs, Sudeep Salgia, Omer Serbetci, Aaron Adalja, Jayadev Acharya, Qing Zhao, Renatta Ivanek, Martin Wiedmann \n Critical Reviews in Food Science and Nutrition, DOI: 10.1080/10408398.2022.2103086 
 
 - [https://proceedings.neurips.cc/paper/2021/hash/9d740bd0f36aaa312c8d504e28c42163-Abstract.html Distributed Estimation with Multiple Samples per User: Sharp Rates and Phase Transition] \n Jayadev Acharya, Clement Canonne, Yuhan Liu, Ziteng Sun, Himanshu Tyagi\n 35th Conference on Neural Inforamtion Processing Systems (NeurIPS 2021)
 
